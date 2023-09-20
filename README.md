@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Pragadeesh Pannerselvam
 #### I am Cloud Infra Managed Service Engineer
-![I am Cloud Infra Managed Service Engineer](minions-workaholic.gif)
+![I am Cloud Infra Managed Service Engineer](xero-code.gif)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 

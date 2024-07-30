@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Pragadeesh Pannerselvam
+### Hi there 👋, my name is Pragadeesh Panneerselvam
 #### I am Cloud Infra Managed Service Engineer
 ![I am Cloud Infra Managed Service Engineer](xero-code.gif)
 
